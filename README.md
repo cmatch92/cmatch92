@@ -25,7 +25,7 @@ I'll be adding my portfolio projects here this week. Check back soon, or view al
 ## 📫 How to Reach Me
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01b6c0c468f9d180ee?mp_source=share)
-- 📧 [Email](christopher.matchett@snhu.edu)
+- 📧 [your.email@example.com](mailto:christopher.matchett@snhu.edu)
 
 ---
 
